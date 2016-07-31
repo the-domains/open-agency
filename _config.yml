@@ -1,0 +1,14 @@
+layout_spectrum: 0.20540242525748909
+typography_spectrum: 0.5636938132811338
+color:
+  brandStrength: 0.39055509748868644
+  lightness: 0.7482498604804277
+  saturation: 0.9691091340500861
+  rhythmicContrast: 0.0960126540157944
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Open Agency
